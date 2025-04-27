@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "<3";
+    question.innerHTML = "Te amo demasiado <3";
     gif.src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp3aGU0dDFhNWQ5bm5wYXVncDYwdTB6ZjlqZGpmZ283Nzk5emR6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZbLz3uouHTC0LJ5tiS/giphy.gif ";
 
     // Hide the No button
